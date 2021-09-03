@@ -92,7 +92,7 @@
 
   <a><strong>Listar a venda</strong></a></br>
   GET: <strong>localhost:3333/sales/:id</strong></br>
-  Informe o id da venda para listar.
+  Informe o id da venda para listar.</br>
   <strong>Observação:</strong> Necessário enviar o token de autenticação.</br>
   Exemplo abaixo do retorno da consulta.
 
