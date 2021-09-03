@@ -17,7 +17,7 @@
 <p align="left" >
   <a><strong>Cadastrar usuário:</strong></a></br>
   POST: <strong>localhost:3333/users</strong></br>
-  A requisição do cadastro de usuário deve ser enviada via JSON com o formato abaixo:
+  A requisição do cadastro de usuário deve ser enviada via JSON com o formato abaixo:</br>
   <strong>Observação:</strong> O campo type aceita apenas os valores ['REVENDEDOR(A)', 'GERENTE']
 
 ```json
@@ -49,7 +49,7 @@
 
   <a><strong>Cadastrar produto:</strong></a></br>
   POST: <strong>localhost:3333/products</strong></br>
-  A requisição do cadastro de produto deve ser enviada via JSON com o formato abaixo:
+  A requisição do cadastro de produto deve ser enviada via JSON com o formato abaixo:</br>
   <strong>Observação:</strong> Necessário enviar o token de autenticação.
 
 ```json
@@ -61,7 +61,7 @@
 ```
   <a><strong>Cadastrar cliente:</strong></a></br>
   POST: <strong>localhost:3333/customers</strong></br>
-  A requisição do cadastro de cliente deve ser enviada via JSON com o formato abaixo:
+  A requisição do cadastro de cliente deve ser enviada via JSON com o formato abaixo:</br>
   <strong>Observação:</strong> Necessário enviar o token de autenticação.
 
 ```json
@@ -74,7 +74,7 @@
 
  <a><strong>Cadastrar venda:</strong></a></br>
   POST: <strong>localhost:3333/sales</strong></br>
-  A requisição do cadastro de venda deve ser enviada via JSON com o formato abaixo:
+  A requisição do cadastro de venda deve ser enviada via JSON com o formato abaixo:</br>
   <strong>Observação:</strong> Necessário enviar o token de autenticação.
 
 ```json
@@ -93,7 +93,7 @@
   <a><strong>Listar a venda</strong></a></br>
   GET: <strong>localhost:3333/sales/:id</strong></br>
   Informe o id da venda para listar.
-  <strong>Observação:</strong> Necessário enviar o token de autenticação.
+  <strong>Observação:</strong> Necessário enviar o token de autenticação.</br>
   Exemplo abaixo do retorno da consulta.
 
 ```json
