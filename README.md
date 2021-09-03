@@ -1,5 +1,5 @@
 <h2 align="center">
-  caixa-virtual
+  cashback
 </h2>
 <p align="left">
   <a>A api foi desenvolvida em node.js com typescript.</a></br>
@@ -7,8 +7,8 @@
 </p>
 <p align="left" >
   * <a>Instalar o Docker</a></br>
-  * <a>Criar o banco de acordo a configuração do arquivo ormconfig.js</a></br>
-  * <a>Eexcute a SQL no banco antes de rodar o migration: CREATE EXTENSION IF NOT EXISTS "uuid-ossp";</a></br>
+  * <a>Criar o banco de acordo a configuração do arquivo <strong>ormconfig.js</strong></a></br>
+  * <a>Execute a SQL no banco antes de rodar o migration: <strong>CREATE EXTENSION IF NOT EXISTS "uuid-ossp";</strong></a></br>
   * <a>yarn install</a></br>
   * <a>yarn dev:server</a>
 </p>
