@@ -1,5 +1,5 @@
 <h2 align="center">
-  caixa-virtual
+  cashback
 </h2>
 <p align="left">
   <a>A api foi desenvolvida em node.js com typescript.</a></br>
